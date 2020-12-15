@@ -1,0 +1,94 @@
+//==================Students===================//
+Ooi Wei Chern
+U001123456F
+WeiChern001
+Malaysia001
+M
+Malaysian
+
+Ryan Cheng
+U002123456F
+RyanCheng002
+Stocks002
+M
+Malaysian
+
+Saw William
+U003123456F
+William003
+Lazaruz003
+M
+Singaporean
+
+Neo Qi Xiang
+U004123456F
+QiXiang004
+Guardsman004
+M
+Singaporean
+
+Jeremy Pong
+U005123456F
+JeremyPong005
+PingthePong005
+M
+Singaporean
+
+Melissa006
+WaterMelon006
+
+JamesBond007
+Bullet007
+
+Pingu008
+ThePenguin008
+
+GundamMeister009
+CelestialBeing009
+
+Perfect010
+AllRoundPerf010
+
+LebronJ011
+NBAallStar011
+
+JackieChan012
+RushHour012
+
+ChrisTucker013
+SevenEleven013
+
+StevenLim014
+Crazykia014
+
+XiaXue015
+DramaQueen015
+//=====================================//
+
+//===========Admins===================//
+MsTanKek92
+HODofMaths92
+
+MrBoonKeng76
+KengKia76
+
+//==============Courses and Indexes=======//
+Calculus 2 MH1101
+indexes = 70140, 70141, 70143
+lecture timing = Tue(1230 - 1330), Thu(1230-1330), Tue(1230-1330)
+Tut/Lab timing = Wed(0830-0930), Wed(0830-0930), Wed(0830-0930)
+
+Introduction to Data Science CZ1016
+indexes = 10060, 10061, 10062
+lecture timing = Mon(1430-1530), Mon(1430-1530), Mon(1430,1530)
+Tut/Lab timing = Thu(1430-1630), Wed(0830-1030), Mon(0830-1030)
+
+Linear Algebra for Scientists MH2802
+indexes = 70740, 70741, 70742
+lecture timing = Fri(1030-1230), Fri(1030-1230), Fri(1030-1230)
+tut/lab timing = Tue(0930-1030), Wed(0930-1030), Mon(0830-0930)
+
+Discrete Maths MH1812
+indexes = 70180, 70181, 70182
+Lecture timing = Thu(1530-1730), Thu(1530-1730), Thu(1530-1730)
+tut/lab timing = Mon(1530-1630), Fri(1030-1130), Tue(0830-0930)

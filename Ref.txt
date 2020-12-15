@@ -1,0 +1,2 @@
+References: 
+Hashing password using SHA256: https://www.geeksforgeeks.org/sha-256-hash-in-java/
